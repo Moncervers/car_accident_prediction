@@ -1,0 +1,9 @@
+# Data files
+data
+
+# SQL
+queries
+db_config_file.py
+
+# Python
+uv.lock
