@@ -7,3 +7,4 @@ db_config_file.py
 
 # Python
 uv.lock
+__pycache__
