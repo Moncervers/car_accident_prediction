@@ -1,6 +1,8 @@
 # Data files
 data
 
+models
+
 # SQL
 queries
 db_config_file.py
